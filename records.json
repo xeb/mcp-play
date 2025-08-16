@@ -1,0 +1,62 @@
+[
+  {
+    "id": "001",
+    "title": "Chocolate Cupcake Order",
+    "text": "Double chocolate cupcakes with vanilla frosting for birthday party",
+    "metadata": {
+      "customer": "Alice Johnson",
+      "quantity": "24",
+      "flavor": "chocolate",
+      "frosting": "vanilla",
+      "event": "birthday"
+    }
+  },
+  {
+    "id": "002", 
+    "title": "Wedding Cupcake Special",
+    "text": "Elegant vanilla cupcakes with cream cheese frosting and gold decorations",
+    "metadata": {
+      "customer": "Bob Smith",
+      "quantity": "100",
+      "flavor": "vanilla",
+      "frosting": "cream cheese",
+      "event": "wedding"
+    }
+  },
+  {
+    "id": "003",
+    "title": "Red Velvet Delight",
+    "text": "Classic red velvet cupcakes with buttercream frosting for office party",
+    "metadata": {
+      "customer": "Carol Brown",
+      "quantity": "36",
+      "flavor": "red velvet",
+      "frosting": "buttercream",
+      "event": "office party"
+    }
+  },
+  {
+    "id": "004",
+    "title": "Lemon Zest Special",
+    "text": "Fresh lemon cupcakes with lemon glaze for summer picnic",
+    "metadata": {
+      "customer": "David Wilson",
+      "quantity": "18",
+      "flavor": "lemon",
+      "frosting": "lemon glaze",
+      "event": "picnic"
+    }
+  },
+  {
+    "id": "005",
+    "title": "Strawberry Surprise",
+    "text": "Strawberry cupcakes with strawberry cream frosting for graduation",
+    "metadata": {
+      "customer": "Emma Davis",
+      "quantity": "48",
+      "flavor": "strawberry",
+      "frosting": "strawberry cream",
+      "event": "graduation"
+    }
+  }
+]
